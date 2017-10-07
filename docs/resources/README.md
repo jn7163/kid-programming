@@ -1,4 +1,4 @@
-# 资源和玩具
+# 资源整理
 
 ## web
 - [code.org](https://code.org/) 适合入门的网站
